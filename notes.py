@@ -40,4 +40,20 @@ writtern in C, which is a much faster language."""
 into the following steps:
     1. Collect data
     2. Develop a hypothesis for a strategy
-    3. Backtest that strategy
+    3. Backtest that strategy"""
+
+
+
+###############################################
+#Section 2 - API Basics
+###############################################
+
+#What is an API?
+"""An API is an Application Programming Interface.
+APIs allow you to interact with someone else's software using your own code."""
+
+#API Functionality
+"""GET: Retreive data from a server at the specified resource.
+   POST: Adds data to the database exposed by the API. (Create only)
+   PUT: Adds and overwrites data in the database exposed by the API. (Create or replace)
+   DELETE: Deletes data from the API's database"""
